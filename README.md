@@ -1,2 +1,2 @@
 # assignment
-some assignment will be wrote in this file.
+some assignments will be written in this file.
